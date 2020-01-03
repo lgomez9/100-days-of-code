@@ -3,7 +3,7 @@
 ### Day 0: January 3, 2020
 ##### Prologue
 
-**Today's Progress**: Setting up the github, getting comfortable with the rules and gimmick of 100 days of code.
+**Today's Progress**: Setting up the GitHub, getting comfortable with the rules and gimmick of 100 days of code.
 
 **Thoughts**: I get into my own head when it comes to stuff like GitHub, which I'm only vaguely unfamiliar with, and it stops me from committing full force. I can make mistakes! I can do this!
 
