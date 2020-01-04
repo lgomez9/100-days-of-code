@@ -11,8 +11,16 @@
 
 ### Day 1: January 4, 2020
 
+**Today's Progress**: I did the first two problems of Project Euler. Pretty simple to solve, just slight twists on problems that I've seen before. I also finished up the JavaScript: Arrays section (section 13) for Cole Steele's Web Development Bootcamp course on Udemy.
+
+**Thoughts**: This was a good start to the program. Definitely will get more complicated as we keep going (the first two problems of Project Euler only have a 5% difficulty), but mostly felt good to be productive in two different ways today.
+
+**Link(s) to work**: Found in the Project Euler folder in this repository.
+
+### Day 2: January 5, 2020
+
 **Today's Progress**:
 
-**Thoughts**: 
+**Thoughts**:
 
-**Link(s) to work**: 
+**Link to work**:
