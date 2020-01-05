@@ -19,6 +19,14 @@
 
 ### Day 2: January 5, 2020
 
+**Today's Progress**: I did the third and fourth problem of Project Euler. Required a little more thinking than the first two for sure, but still ultimately ended up being pretty simple problems. A good warm-up for what I'm sure is only going to get harder. I also finished up the JavaScript: Objects section (section 14) for Colt Steele's Web Development Bootcamp course on Udemy.
+
+**Thoughts**: This was a good second day, especially before work starts back up. Feels good to be productive in two different ways today. Only stopping today because I have other work to do, otherwise I'm really excited to keep going with this Udemy course. Going to have to eventually work on a project that incorporates the HTML, CSS, and JS I've been learning.
+
+**Link to work**: Found in the Project Euler folder in this repository.
+
+### Day 3: January 6, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
