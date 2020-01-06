@@ -27,6 +27,14 @@
 
 ### Day 3: January 6, 2020
 
+**Today's Progress**: I did the fifth and sixth problem of Project Euler. Problem 5 required a couple of functions, while problem 6 was pretty simple. Maybe there's a more efficient way to do it that I'm missing, but it was pretty straightforward, and the challenge seems to have more to do with understanding how to program than understanding the math. I'm going to keep going with Project Euler at least until the end of the week, before maybe slowing down to only a problem a day instead of 2. Also finished the DOM Manipulation section (section 15) for Colt Steele's Web Development Bootcamp course on Udemy.
+
+**Thoughts**: Progress has been pretty good so far. I think the Colt Steele class is going to become slightly more project-based now that we've finished the JavaScript portion, which I'm very excited for.
+
+**Link to work**: Found in the Project Euler folder in this repository.
+
+### Day 4: January 7, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
