@@ -35,6 +35,14 @@
 
 ### Day 4: January 7, 2020
 
+**Today's Progress**: I did the seventh and eighth problem of Project Euler. I wasn't super satisfied with my solutions, but I found the right answer, which at this point I'll take. I might do some independent research to see if I can find more efficient solutions. Also finished the Advanced DOM Manipulation section (section 16) for Colt Steele's Web Development Bootcamp course on Udemy.
+
+**Thoughts**: Progress is definitely going to slow down now that school has started. Even today, I know that I'll have less time to get this stuff down when school really gets underway.
+
+**Link to work**: Found in the Project Euler folder in this repository.
+
+### Day 5: January 8, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
