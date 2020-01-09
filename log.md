@@ -43,6 +43,14 @@
 
 ### Day 5: January 8, 2020
 
+**Today's Progress**: Forgot to update this the day of! I did the 9th and 10th problems of Project Euler. Again, probably inefficient solutions, but I can go back and try to fix them later! Started like the very first section of Colt Steele's Section 17, but didn't have as much time as I would've liked to get into it.
+
+**Thoughts**: Progress definitely slowed down today now that school has really started.
+
+**Link to work**: Found in the Project Euler folder in this repository.
+
+### Day 6: January 9, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
