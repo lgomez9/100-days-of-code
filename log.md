@@ -51,6 +51,14 @@
 
 ### Day 6: January 9, 2020
 
+**Today's Progress**: I did the 11th and 12th problems of Project Euler. I continued maybe one section of Colt Steele's Section 17, but again, it's becoming much harder to commit time now that school has started up again.
+
+**Thoughts**: Progress has definitively slowed down. Might need to rethink how I'm organizing my day to make sure I have time to get this done every day.
+
+**Link to work**: Found in the Project Euler folder in this repository.
+
+### Day 7: January 10, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
