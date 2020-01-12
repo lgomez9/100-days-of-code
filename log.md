@@ -80,3 +80,11 @@
 **Thoughts**: This has happened multiple times to me, and I'm annoyed I didn't think about the overflow problem earlier. Need to start defaulting to longs for these problems.
 
 **Link to work**: Found in the Web Development Bootcamp folder in this repository.
+
+### Day 10: January 13, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
