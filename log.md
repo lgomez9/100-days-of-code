@@ -75,8 +75,8 @@
 
 ### Day 9: January 12, 2020
 
-**Today's Progress**:
+**Today's Progress**: Finished problem 14. Might take a look at and try to finish problem 15 too. My big problem is not accounting for overflow. My program was getting stuck because it would overflow, and switching my ints to long solved that problem immediately. I also got through the Intro to jQuery and Advanced jQuery sections on Colt Steele's Web Development Bootcamp!
 
-**Thoughts**:
+**Thoughts**: This has happened multiple times to me, and I'm annoyed I didn't think about the overflow problem earlier. Need to start defaulting to longs for these problems.
 
-**Link to work**:
+**Link to work**: Found in the Web Development Bootcamp folder in this repository.
