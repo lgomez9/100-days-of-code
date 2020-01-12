@@ -59,6 +59,22 @@
 
 ### Day 7: January 10, 2020
 
+**Today's Progress**: Going back to fill this out now. On Friday I just had time to do problem 13 for Project Euler. I looked at 14, and my solution took too long to get an actual answer. Part of the fun of these problems is definitely realizing that what seems like a pretty simple solution is actually intractable and needs to be rethought. I had an idea for it yesterday (1/11), but didn't have the opportunity to try coding it. 
+
+**Thoughts**: Fridays are going to be the hardest days to get done, because I'll usually be going straight to a happy hour or to hang out with friends after school. If I can make sure I just do a little bit during my planning periods, I shouldn't have that much trouble, but they'll definitely be my least productive days.
+
+**Link to work**: Found in the Project Euler folder in this repository.
+
+### Day 8: January 11, 2020
+
+**Today's Progress**: I didn't do any Project Euler today, but I did do all of section 17 of Colt Steele's Web Develompent Bootcamp. The color game project is in this repository. Eventually going to have to add my own personal projects.
+
+**Thoughts**: Didn't have the chance to work on Project Euler today, and I felt bad about that, but it did feel really good to do a project that involved JS, CSS, and HTML all working together.
+
+**Link to work**: Found in the Web Development Bootcamp folder in this repository.
+
+### Day 9: January 12, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
