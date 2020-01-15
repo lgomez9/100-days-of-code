@@ -83,8 +83,16 @@
 
 ### Day 10: January 13, 2020
 
-**Today's Progress**:
+**Today's Progress**: We've come a 10th of the way through this challenge, and progress has definitely slowed. It's pretty difficult to find time for this at the moment, but I'm doing my best to find a half hour here and there. I just managed to finish problem 15 of Project Euler today, but not sure when my next best chance to look at challenge 16 is going to be.
 
-**Thoughts**:
+**Thoughts**: Not having time to do anything after work sucks.
 
-**Link to work**:
+**Link to work**: In Project Euler folder in this repository
+
+### Day 11: January 14, 2020
+
+**Today's Progress**: Didn't have time to do much today. I have a coding interview coming up, so figured that I should hop back on Leetcode. Finished the problems in not too too long, and think I found pretty optimal solutions.
+
+**Thoughts**: Getting back into Leetcode felt good. Definitely need to brush up on my coding question skills before I take the Codility test.
+
+**Link to work**: In Leetcode folder in this repository (1295, 1299).
