@@ -96,3 +96,19 @@
 **Thoughts**: Getting back into Leetcode felt good. Definitely need to brush up on my coding question skills before I take the Codility test.
 
 **Link to work**: In Leetcode folder in this repository (1295, 1299).
+
+### Day 12: January 15, 2020
+
+**Today's Progress**: Managed to find much more time today to get down to business. I did a couple more problems on Leetcode, finished another Project Euler problem, and then got started on the next section of Colt Steele's Web Development course.
+
+**Thoughts**: Today was a great day, after a couple of days that I was feeling a little down about my lack of progress. I definitely need to get a little more productive when it comes to Project Euler, but the fact that I'm still at a better than a problem a day pace means I think I'm on the right track. A little worried about what this weekend will do to my progress.
+
+**Link to work**: In Project Euler and Leetcode folder in this repository (1281, 1287).
+
+### Day 13: January 16, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
