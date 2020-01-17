@@ -107,6 +107,14 @@
 
 ### Day 13: January 16, 2020
 
+**Today's Progress**: I managed to do a lot today! Having more time yesterday to lesson plan really helped me put my pedal to the metal. I managed to finish two Project Euler problems, two Leetcode problems, and then also managed to finish another section of the Web Development course. 
+
+**Thoughts**: Today was a really good day, and it felt good to string two together before I have Sydney visiting and will have significantly less time for my shenanigans. Progress is going to be really slow the next couple of days, but I'll be back with a vengeance next Tuesday.
+
+**Link to work**: All in the Leetcode, Project Euler, and Web Development Course folder in this repository.
+
+### Day 14: January 17, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
