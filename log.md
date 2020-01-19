@@ -115,8 +115,16 @@
 
 ### Day 14: January 17, 2020
 
-**Today's Progress**:
+**Today's Progress**: Not a lot of time to do things today, and just managed to finish another Leetcode problem and get started on the first two parts of the next section of the Web Development course.
 
-**Thoughts**:
+**Thoughts**: Today was a slow day, as was expected!
 
-**Link to work**:
+**Link to work**: In the Leetcode folder in this repository.
+
+### Day 15: January 18, 2020
+
+**Today's Progress**: Did a decent amount today, including another two problems of Project Euler, and two Leetcode problems, including one medium problem!
+
+**Thoughts**: Today was a good day, and I'm still at a better than a problem a day rate for Project Euler!
+
+**Link to work**: In the Project Euler and Leetcode folders in this repository. 
