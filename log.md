@@ -128,3 +128,11 @@
 **Thoughts**: Today was a good day, and I'm still at a better than a problem a day rate for Project Euler!
 
 **Link to work**: In the Project Euler and Leetcode folders in this repository. 
+
+### Day 16: January 19, 2020
+
+**Today's Progress**: Did another problem of Project Euler.
+
+**Thoughts**: This weekend has been fantastic, but back on the grind starting on Tuesday!
+
+**Link to work**: In the Project Euler folder in this repository.
