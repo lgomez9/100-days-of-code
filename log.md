@@ -136,3 +136,19 @@
 **Thoughts**: This weekend has been fantastic, but back on the grind starting on Tuesday!
 
 **Link to work**: In the Project Euler folder in this repository.
+
+### Day 17: January 20, 2020
+
+**Today's Progress**: Worked through another problem on Project Euler, finished another section of the Web Development Course, and finished a Leetcode problem.
+
+**Thoughts**: This was a good day of work, although I definitely need to start making sure I get the optimal solutions when I solve these problems. Looking at other people's solutions on the Leetcode problem afterwards made me realize how inefficiently I'd been thinking.
+
+**Link to work**: In the Project Euler and Leetcode folders in this repository.
+
+### Day 18: January 21, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
