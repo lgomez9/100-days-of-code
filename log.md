@@ -147,8 +147,8 @@
 
 ### Day 18: January 21, 2020
 
-**Today's Progress**:
+**Today's Progress**: Just had time to look at problem 23 for Project Euler. A little disappointed to not have time to finish it, especially given that I believe I'm missing something small to solve it.
 
-**Thoughts**:
+**Thoughts**: None really today! Hoping to get more time to work tomorrow!
 
-**Link to work**:
+**Link to work**: Not uploaded cause still haven't found the solution!
