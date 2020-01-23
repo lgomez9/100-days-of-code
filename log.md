@@ -152,3 +152,19 @@
 **Thoughts**: None really today! Hoping to get more time to work tomorrow!
 
 **Link to work**: Not uploaded cause still haven't found the solution!
+
+### Day 19: January 22, 2020
+
+**Today's Progress**: Figured out the error for problem 23, and it had to do with how I was finding the divisorSum. I eventually found out what was necessary from some snooping on Stack Overflow, and I'm glad it didn't take longer to figure it out, as it was starting to drive me a little crazy. Also got started on the next section of the Web Development course!
+
+**Thoughts**: Took a quick peek at problem 24 for Project Euler, although I didn't even start thinking about a solution. Looks like it's going to be a tough one, and I'm glad I'm still at a problem a day pace, although I might see that slow down soon. Also excited to get down to some backend development in the Web Development course!
+
+**Link to work**: Found in the Project Euler folder of this repository.
+
+### Day 20: January 23, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
