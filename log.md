@@ -168,3 +168,11 @@
 **Thoughts**: Problem 24 was difficult, and I had to do some sleuthing for algorithms to use. I felt bad, as this is definitely the problem that I relied the most on outside help for. Problem 25 was pretty simple using Big Integers, but I think I'm going to have to back through and refactor some of my solutions, cause I figure all the ones with BigIntegers can probably be refactored.
 
 **Link to work**: In the Project Euler folder of this repository.
+
+### Day 21: January 24, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
