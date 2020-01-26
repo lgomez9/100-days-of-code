@@ -171,8 +171,16 @@
 
 ### Day 21: January 24, 2020
 
-**Today's Progress**:
+**Today's Progress**: Spent a little bit of time looking at problem 26, but honestly not that long. Did a couple of problems in Leetcode, and then also went through a tiny little bit of a personal project.
 
-**Thoughts**:
+**Thoughts**: Problem 26 is going to be a toughie, and I think that I'm going to be surprised by how much more difficult the next 25 are then the first 25. 
 
-**Link to work**:
+**Link to work**: Found in the Project Euler folder in this repository.
+
+### Day 22: January 25, 2020
+
+**Today's Progress**: Not much progress today, but I did learn a little more about how to solve problem 26!
+
+**Thoughts**: Learning about the Euler totient function for problem 26 was actually really interesting, and I'm excited about learning new math as we go along in these challenges.
+
+**Link to work**: Purely conceptual today! Some light coding.
