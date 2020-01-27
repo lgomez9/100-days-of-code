@@ -184,3 +184,11 @@
 **Thoughts**: Learning about the Euler totient function for problem 26 was actually really interesting, and I'm excited about learning new math as we go along in these challenges.
 
 **Link to work**: Purely conceptual today! Some light coding.
+
+### Day 23: January 26, 2020
+
+**Today's Progress**: Had a decent amount of progress today. Didn't work on Project Euler today, but did manage to finish another section of Colt Steele's Web Development course, and did a leetcode problem, a medium problem this time!
+
+**Thoughts**: Definitely didn't have the most mentally taxing day today, but enjoyed working on the Node.js material. I also enjoy using the command line, it truly is a remarkably useful tool, one that I don't think I truly appreciated while I was getting beaten down by 323.
+
+**Link to work**: In the Leetcode folder in this repository.
