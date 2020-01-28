@@ -192,3 +192,11 @@
 **Thoughts**: Definitely didn't have the most mentally taxing day today, but enjoyed working on the Node.js material. I also enjoy using the command line, it truly is a remarkably useful tool, one that I don't think I truly appreciated while I was getting beaten down by 323.
 
 **Link to work**: In the Leetcode folder in this repository.
+
+### Day 24: January 27, 2020
+
+**Today's Progress**: Today was a very productive day. I finished the next Project Euler problem, although I'm starting to slow down and lose my problem a day steam, I did another section of the Web Development course, and most importantly, I finally finished the Codility test.
+
+**Thoughts**: Getting the Codility test for Genospace down was a big win for the program, and although my anxiety was really acting up, I managed to stay calm and get it finished. I'm feeling good and ready for tomorrow!
+
+**Link to work**: In the Project Euler folder in this repository.
