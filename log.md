@@ -200,3 +200,27 @@
 **Thoughts**: Getting the Codility test for Genospace down was a big win for the program, and although my anxiety was really acting up, I managed to stay calm and get it finished. I'm feeling good and ready for tomorrow!
 
 **Link to work**: In the Project Euler folder in this repository.
+
+### Day 25: January 28, 2020
+
+**Today's Progress**: I finished a Leetcode problem, and got started on a personal TicTacToe project that I'll try to finish this weekend.
+
+**Thoughts**: Working on the TicTacToe problem has really helped me understand how important practice is to the knowledge I've gained. I definitely know more about CSS, HTML, and JS than I started out, but I definitely have to practice by doing some projects to make sure that I internalize the knowledge that I've gained.
+
+**Link to work**: In the Leetcode folder in this repository.
+
+### Day 26: January 29, 2020
+
+**Today's Progress**: I did another two problems for Project Euler, and finished another section of the Web Development course.
+
+**Thoughts**: Getting another two problems done for Project Euler felt good, and finishing another section of the Web Development course also feels great. Excited to get into some projects for the web development course.
+
+**Link to work**: In the Project Euler folder in this repository.
+
+### Day 27: January 30, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
