@@ -219,6 +219,14 @@
 
 ### Day 27: January 30, 2020
 
+**Today's Progress**: Did another two problems for Leetcode, one easy and one medium.
+
+**Thoughts**: Medium problems can be deceptively easy - I think what makes them "medium" is usually the application of some advanced DS (usually trees), that can be confusing for people not comfortable with data structures. Not to say I always have the easiest time with trees, cause I definitely don't.
+
+**Link to work**: In the Leetcode folder in this repository.
+
+### Day 28: January 31, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
