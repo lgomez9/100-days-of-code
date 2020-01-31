@@ -227,6 +227,14 @@
 
 ### Day 28: January 31, 2020
 
+**Today's Progress**: Did another two problems for Project Euler, did another Leetcode problem, medium.
+
+**Thoughts**: Same thoughts as yesterday. Project Euler is definitely getting harder, although I've been able to figure them out which is good.
+
+**Link to work**: In the Project Euler and Leetcode folders in this repository.
+
+### Day 29: February 1, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
