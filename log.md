@@ -235,8 +235,8 @@
 
 ### Day 29: February 1, 2020
 
-**Today's Progress**:
+**Today's Progress**: Did another Project Euler problem, and did another section of the Web Development course!
 
-**Thoughts**:
+**Thoughts**: Feeling good about my progress so far, but think I might have to run back through some DS stuff in the next couple weeks.
 
-**Link to work**:
+**Link to work**: In the Project Euler folder in this repository.
