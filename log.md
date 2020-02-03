@@ -240,3 +240,11 @@
 **Thoughts**: Feeling good about my progress so far, but think I might have to run back through some DS stuff in the next couple weeks.
 
 **Link to work**: In the Project Euler folder in this repository.
+
+### Day 30: February 2, 2020
+
+**Today's Progress**: Did another two problems of Project Euler (33 and 34). Didn't have the time to do anything else super productive.
+
+**Thoughts**: I'm definitely going to have to go back through my solution to Project Euler and refactor them after the fact.
+
+**Link to work**: In the Project Euler folder in this repository.
