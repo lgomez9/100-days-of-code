@@ -248,3 +248,11 @@
 **Thoughts**: I'm definitely going to have to go back through my solution to Project Euler and refactor them after the fact.
 
 **Link to work**: In the Project Euler folder in this repository.
+
+### Day 31: February 3, 2020
+
+**Today's Progress**: Did another two problems of Project Euler (35 and 36). Didn't have the time to do too much moer.
+
+**Thoughts**: Honestly, I feel like I've slowed down a little bit, but I'm proud of myself for making it nearly a third of the way through with some pretty consistent progress. Getting back to two problems of Project Euler a day feels like a pretty good streak to be on, although I'm sure that I'll slow down again. At the very least, it's given me a little wiggle room when it comes to trying to maintain a problem a day average.
+
+**Link to work**: In the Project Euler folder in this repository.
