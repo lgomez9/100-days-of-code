@@ -264,3 +264,11 @@
 **Thoughts**: Today was another slowish day because of my interview. Back on the grind tomorrow!
 
 **Link to work**: In the Leetcode folder in this repository.
+
+### Day 33: February 5, 2020
+
+**Today's Progress**: Did another couple of Leetcode problems.
+
+**Thoughts**: Slow day because of TNTP and my meeting after school. Tomorrow I will officially be back on that grind!! Found a really cool interview preparation course on Leetcode - I haven't explored enough of the site, but it definitely looks worth checking out.
+
+**Link to work**: On Leetcode profile.
