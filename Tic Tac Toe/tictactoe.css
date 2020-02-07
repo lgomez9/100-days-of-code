@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background: #232323;
+}
+
+h1 {
+  color: white;
+  font-family: Oswald;
+}
+
+table {
+  width: 100%;
+  background: #95aadb;
+  margin: 10px auto;
+  height: 400px;
+}
+
+td {
+  background: #cfcdc8;
+  width: 100px;
+  height: 100px;
+}
