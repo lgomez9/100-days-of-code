@@ -272,3 +272,19 @@
 **Thoughts**: Slow day because of TNTP and my meeting after school. Tomorrow I will officially be back on that grind!! Found a really cool interview preparation course on Leetcode - I haven't explored enough of the site, but it definitely looks worth checking out.
 
 **Link to work**: On Leetcode profile.
+
+### Day 34: February 6, 2020
+
+**Today's Progress**: Did two more Project Euler problems, did another few of the Leetcode Interview Preparation module, and put some more work into my personal Tic Tac Toe project.
+
+**Thoughts**: A productive day after two pretty slow days!! Getting more Project Euler done felt great, and the Leetcode problems are always great practice, even the ones that I've seen before are great to just keep my skills sharp. Working on my Tic Tac Toe project feels great, just in that it's good to have some experience trying to code my own JS, HTML, and CSS.
+
+**Link to work**: In Project Euler and Tic Tac Toe folders in this repository.
+
+### Day 35: February 7, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
