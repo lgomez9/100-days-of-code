@@ -283,6 +283,14 @@
 
 ### Day 35: February 7, 2020
 
+**Today's Progress**: Did two more Project Euler problems, did some more work on the Tic Tac Toe project.
+
+**Thoughts**: A productive(ish) day! Getting another two Project Euler problems always feels good. Working on the Tic Tac Toe project also just makes me feel very good, as I'm having fun exploring and working with jQuery.
+
+**Link to work**: In Project Euler and Tic Tac Toe folders in this repository.
+
+### Day 36: February 8, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
