@@ -296,3 +296,11 @@
 **Thoughts**: Festival season is definitely going to tank my productivity, but it's hard to complain about that when I'm having so much fun! As long as I keep decent progress on Project Euler and the Web Development course, I think I can afford slower days!
 
 **Link to work**: On Goorm
+
+### Day 37: February 9, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
