@@ -299,8 +299,8 @@
 
 ### Day 37: February 9, 2020
 
-**Today's Progress**:
+**Today's Progress**: Another two problems of Project Euler down!
 
-**Thoughts**:
+**Thoughts**: Another relatively slow day, which I'm not super happy about, but I had a great day besides that, so all's well that ends well.
 
-**Link to work**:
+**Link to work**: In Project Euler folder of this repository.
