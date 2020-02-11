@@ -304,3 +304,11 @@
 **Thoughts**: Another relatively slow day, which I'm not super happy about, but I had a great day besides that, so all's well that ends well.
 
 **Link to work**: In Project Euler folder of this repository.
+
+### Day 38: February 10, 2020
+
+**Today's Progress**: Another couple of problems of Leetcode's interview preparation kit.
+
+**Thoughts**: I'm definitely going to have to take some time this weekend on these interview preparation questions, some of them are good thinkers.
+
+**Link to work**: On my Leetcode account. 
