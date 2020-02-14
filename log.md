@@ -312,3 +312,35 @@
 **Thoughts**: I'm definitely going to have to take some time this weekend on these interview preparation questions, some of them are good thinkers.
 
 **Link to work**: On my Leetcode account. 
+
+### Day 39: February 11, 2020
+
+**Today's Progress**: Another slow day of some Leetcode interview preparation.
+
+**Thoughts**: Definitely going to need to zero in on the problems that give me the most difficulty (Trees)
+
+**Link to work**: On my Leetcode account.
+
+### Day 40: February 12, 2020
+
+**Today's Progress**: Got started on another section of the Web Development course.
+
+**Thoughts**: Slow progress yet again.
+
+**Link to work**: N/A
+
+### Day 41: February 13, 2020
+
+**Today's Progress**: Another slow day of Leetcode problems.
+
+**Thoughts**: Nothing much to report, definitely not spending my time as efficiently as I can.
+
+**Link to work**: On my Leetcode account.
+
+### Day 42: February 14, 2020
+
+**Today's Progress**: Finally took advantage of a free day to really put some work in. I finished another section of the Web Development course, and did 3 problems of Project Euler.
+
+**Thoughts**: Feels good to be back at Project Euler, even though it took me a while to get back to it. I can taste halfway!
+
+**Link to work**: In Project Euler folder of this repository.
