@@ -344,3 +344,19 @@
 **Thoughts**: Feels good to be back at Project Euler, even though it took me a while to get back to it. I can taste halfway!
 
 **Link to work**: In Project Euler folder of this repository.
+
+### Day 43: February 15, 2020
+
+**Today's Progress**: Just did a few more Leetcode problems. They're a good way to get some coding in on the days that I'm especially busy. 
+
+**Thoughts**: Definitely need to get more work done on Project Euler done tomorrow.
+
+**Link to work**: On my Leetcode folder.
+
+### Day 44: February 16, 2020
+
+**Today's Progress**: Had a very productive day! Did two more Project Euler problems, did another section of the Web Development course, and did a couple more Leetcode problems.
+
+**Thoughts**: Had a productive day, after a pretty meh week, besides Friday. Felt good to be productive, and looking forward to hopefully having a very balanced week this week between productivity and fun.
+
+**Link to work**: In the Project Euler folder in this repository.
