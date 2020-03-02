@@ -360,3 +360,15 @@
 **Thoughts**: Had a productive day, after a pretty meh week, besides Friday. Felt good to be productive, and looking forward to hopefully having a very balanced week this week between productivity and fun.
 
 **Link to work**: In the Project Euler folder in this repository.
+
+### Day 45-50: February 17-21, 2020
+
+A couple of days of doing Leetcode, Project Euler, and the Web Development course! Finished halfway through Project Euler 100, but still have plenty of work to do to finish it up.
+
+### Day 51: Mar 1, 2020
+
+**Today's Progress**: Started working on redoing the RESTful Routes project, but this time, instead of dogs, I've remade it so that it's a log of all the books that I've read so far this year. I'm going to keep updating it throughout the year, and it'll be my official book tab!
+
+**Thoughts**: Actually really enjoying this project because it has some personal significance. Been a lot easier to think up of some new features that I'd actually want to see added! Going to eventually add movies to this too, so that I can also keep track of that information super easily.
+
+**Link to work**: On Goorm, going to translate it to Github.
