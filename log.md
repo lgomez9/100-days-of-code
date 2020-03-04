@@ -372,3 +372,19 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: Actually really enjoying this project because it has some personal significance. Been a lot easier to think up of some new features that I'd actually want to see added! Going to eventually add movies to this too, so that I can also keep track of that information super easily.
 
 **Link to work**: On Goorm, going to translate it to Github.
+
+### Day 52: Mar 2, 2020
+
+**Today's Progress**: Worked on some Leetcode.
+
+**Thoughts**: Didn't do enough!
+
+**Link to work**: On Leetcode
+
+### Day 53: Mar 3, 2020
+
+**Today's Progress**: Worked on the Book Blog!
+
+**Thoughts**: It's fun to have a project that I actually have some vested interested in!
+
+**Link to work**: On Goorm.
