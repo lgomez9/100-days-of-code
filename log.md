@@ -396,3 +396,11 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: I committed a cardinal sin here, skipping a Project Euler problem, but problem 51 is going to require some real thinking and time, and I wanted to get something done, so I'm hoping that I can be forgiven. I do see that the backhalf of the 100 problems have a lot of more difficult problems, so we'll see how long it takes me to finish up. I'm determined to finish the Web Development course sooner rather than later, and I hope that I can be done by the end of the week.
 
 **Link to work**: In the Project Euler folder of this repository.
+
+### Day 55: Mar 17, 2020
+
+**Today's Progress**: Worked on another section of the Web Development Course.
+
+**Thoughts**: I'm so close to being finished with the course, I can taste it!
+
+**Link to work**: On Goorm.
