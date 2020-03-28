@@ -404,3 +404,19 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: I'm so close to being finished with the course, I can taste it!
 
 **Link to work**: On Goorm.
+
+### Day 56, 57: Mar 28, 2020
+
+**Today's Progress**: I did some more of the Web Development Course, and worked on a personal implementation of a Pomodoro Timer!
+
+**Thoughts**: I need to go into the day with a clearer picture of what I want to be doing day-to-day. Maybe one day I don't look at Project Euler, and instead just focus on the Web Development course, but I have too much time in quaratine to be doing as little coding as I have been doing. Also, I completely messed up my 100 days of code! As long as I finish 100 I'm not going to beat myself up too badly, even though I really should restart at 1.
+
+**Link to work**: On Goorm, and in the Pomodoro folder in this repository.
+
+### Day 58: Mar 29, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
