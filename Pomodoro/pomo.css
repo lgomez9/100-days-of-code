@@ -1,3 +1,22 @@
+body {
+  background-image: linear-gradient(-45deg, #2c7dd4, #a31d43);
+  padding: 0;
+  margin: 0;
+}
+
 .container {
-  margin: 20%;
+  margin: 0 auto;
+  background-image: linear-gradient(-45deg, #2c7dd4, #a31d43);
+  height: 100%;
+}
+
+.segment {
+  width: 50%;
+  display: inline-block;
+}
+
+#timer {
+  padding: 20px;
+  margin: 0px;
+  font-size: 4rem;
 }
