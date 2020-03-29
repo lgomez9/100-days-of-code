@@ -415,6 +415,14 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 
 ### Day 58: Mar 29, 2020
 
+**Today's Progress**: Finished another section of the Web Development course, and worked on the CSS of my Pomodoro timer.
+
+**Thoughts**: Today was a pretty productive day. Tomorrow, I think I'm going to look at Project Euler, cause while the stuff I've been doing has been interesting, it hasn't been particularly difficult, and I want to do something that's going to make me think.
+
+**Link to work**: On Goorm, and in the Pomodor folder in this repository.
+
+### Day 59: Mar 30, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
