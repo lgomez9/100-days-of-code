@@ -423,8 +423,8 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 
 ### Day 59: Mar 30, 2020
 
-**Today's Progress**:
+**Today's Progress**: Finished another section of the Web Development course. Only three sections left till we're done!
 
-**Thoughts**:
+**Thoughts**: Exciting to be done with something that I've been working on for so long!
 
-**Link to work**:
+**Link to work**: On Goorm.
