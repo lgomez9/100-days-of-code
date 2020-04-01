@@ -428,3 +428,19 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: Exciting to be done with something that I've been working on for so long!
 
 **Link to work**: On Goorm.
+
+### Day 60: Mar 31, 2020
+
+**Today's Progress**: Finished another section of the Web Development course. Also started challenge 54 of the Project Euler challenge.
+
+**Thoughts**: Getting back on to Project Euler was great, it's a lot of brain exercise.
+
+**Link to work**: In the Project Euler folder of this repository.
+
+### Day 61: Apr 1, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
