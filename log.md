@@ -439,8 +439,8 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 
 ### Day 61: Apr 1, 2020
 
-**Today's Progress**:
+**Today's Progress**: Just finished up problem 54 for Project Euler.
 
-**Thoughts**:
+**Thoughts**: It felt really good to get something as involved as problem 54 is done. I had to create a couple different classes, really think about the functions that were required, and then just think through the logic of comparing two poker hands. I think that if I have time, it's worth going back to refactor, as I already have a sneaking suspicion that some of my code might be a little redundant, but the fact that it worked the first time I tested it out without a problem is a huge boost.
 
-**Link to work**:
+**Link to work**: In the Project Euler folder of this repository.
