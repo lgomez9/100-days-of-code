@@ -455,8 +455,8 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 
 ### Day 63: April 3, 2020
 
-**Today's Progress**:
+**Today's Progress**: Put some more work in the book blog app!
 
-**Thoughts**:
+**Thoughts**: This is really starting to take shape. Today, I switched up the layout of the site, so that instead of the books being listed in one column, they're listed in rows of 4. I also changed it up so that they no longer have their titles, authors, or anything else listed, besides the book cover. Added a new background image too, and changed it to give it a little more of a feel for when you're hovering over a book cover.
 
-**Link to work**:
+**Link to work**: On Goorm.
