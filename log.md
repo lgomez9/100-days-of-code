@@ -460,3 +460,11 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: This is really starting to take shape. Today, I switched up the layout of the site, so that instead of the books being listed in one column, they're listed in rows of 4. I also changed it up so that they no longer have their titles, authors, or anything else listed, besides the book cover. Added a new background image too, and changed it to give it a little more of a feel for when you're hovering over a book cover.
 
 **Link to work**: On Goorm.
+
+### Day 64: April 4, 2020
+
+**Today's Progress**: Finished another section of the Web Development course, and did another problem of Project Euler.
+
+**Thoughts**: It feels good to be getting back into the Project Euler groove, and I can't believe that I have just one section of the Web Development course left before I'm done. Definitely need to polish those skills, but I'm excited to then move onto the Swift course.
+
+**Link to work**: On Goorm and in the Project Euler folder in this repository.
