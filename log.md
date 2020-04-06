@@ -468,3 +468,11 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: It feels good to be getting back into the Project Euler groove, and I can't believe that I have just one section of the Web Development course left before I'm done. Definitely need to polish those skills, but I'm excited to then move onto the Swift course.
 
 **Link to work**: On Goorm and in the Project Euler folder in this repository.
+
+### Day 65: April 5, 2020
+
+**Today's Progress**: Finished another Project Euler problem and put more work in on the Book Blog.
+
+**Thoughts**: Feels good to be in a groove again with Project Euler, although I know I have problem 51 looming. A little annoyed I can't figure out what the issue is with the Book Blog and individual book's quotes, but I'm sure I'll figure it out eventually.
+
+**Link to work**: On Goorm and in the Project Euler folder in this repository.
