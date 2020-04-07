@@ -476,3 +476,11 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: Feels good to be in a groove again with Project Euler, although I know I have problem 51 looming. A little annoyed I can't figure out what the issue is with the Book Blog and individual book's quotes, but I'm sure I'll figure it out eventually.
 
 **Link to work**: On Goorm and in the Project Euler folder in this repository.
+
+### Day 66: April 6, 2020
+
+**Today's Progress**: Finish the Web Development Bootcamp on Udemy!
+
+**Thoughts**: It was such a long time ago that I started the Web Development Bootcamp, and I think that I have to really appreciate that. I've been steadily working at it for a few months, and it feels like a great accomplishment to have it all done. On to the next! Going to work on the iOS course I bought next, but I'm going to have to make sure I revisit the concepts I learned in the Web Development Bootcamp on my own time, and with my own personal projects!
+
+**Link to work**: Not in this repository - it was mostly small JS stuff. 
