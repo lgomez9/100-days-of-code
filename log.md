@@ -519,3 +519,11 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: Getting back into data structures, and spending more time dissecting them for understanding, I think will prove to be a really fruitful avenue of research.
 
 **Link to work**: In the DS folder of this repository. 
+
+### Day 71: April 11, 2020
+
+**Today's Progress**: Re-learned about and implemented a Union Find, and worked more on the Tic Tac Toe application I had made. Functionally, it 99% works the exact way I want it to, and most of the work left to be done is aesthetic, not functional.
+
+**Thoughts**: I don't know what changed about today, but we finally got the Tic Tac Toe to work exactly the way I wanted it to. Still need to put some work into it, aesthetically and a little functionally, but honestly I wish I hadn't been so lazy before and had just gotten it done.
+
+**Link to work**: In my own private personal projects folder.
