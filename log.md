@@ -484,3 +484,38 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: It was such a long time ago that I started the Web Development Bootcamp, and I think that I have to really appreciate that. I've been steadily working at it for a few months, and it feels like a great accomplishment to have it all done. On to the next! Going to work on the iOS course I bought next, but I'm going to have to make sure I revisit the concepts I learned in the Web Development Bootcamp on my own time, and with my own personal projects!
 
 **Link to work**: Not in this repository - it was mostly small JS stuff. 
+
+### Day 67: April 7, 2020
+
+**Today's Progress**: Spent some time trying to figure out the quotes feature for the Book Blog. Was not successful, turned to Stack Overflow. Will give it another try in a few days.
+
+**Thoughts**: This is really frustrating me, and the errors that I'm getting are not helping, at least not in the way I need.
+
+**Link to work**: On Goorm.
+
+
+### Day 68: April 8, 2020
+
+**Today's Progress**: Got started on another Project Euler problem (58) and got started on the iOS App Development Course!
+
+**Thoughts**: I'm excited to get into another course, but I need to make sure that I don't let the knowledge that I've gained from the web development course go to waste. I need to make sure I'm keeping a healthy balance between applying those skills that I've gained, and learning new skills.
+
+**Link to work**: Nothing on this git repository.
+
+
+### Day 69: April 9, 2020
+
+**Today's Progress**: Finished the Project Euler problem from yesterday (58) and finished a section of the iOS App Development Course.
+
+**Thoughts**: I need to be putting a more concerted effort into finishing these Project Euler problems.
+
+**Link to work**: In the Project Euler folder of this repository.
+
+
+### Day 70: April 10, 2020
+
+**Today's Progress**: Got started on another Project Euler problem, did more of the iOS App Development course, and started implementing some data structures for practice, based on William Fiset's course on Udemy.
+
+**Thoughts**: Getting back into data structures, and spending more time dissecting them for understanding, I think will prove to be a really fruitful avenue of research.
+
+**Link to work**: In the DS folder of this repository. 
