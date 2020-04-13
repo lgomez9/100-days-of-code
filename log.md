@@ -527,3 +527,11 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: I don't know what changed about today, but we finally got the Tic Tac Toe to work exactly the way I wanted it to. Still need to put some work into it, aesthetically and a little functionally, but honestly I wish I hadn't been so lazy before and had just gotten it done.
 
 **Link to work**: In my own private personal projects folder.
+
+### Day 72: April 12, 2020
+
+**Today's Progress**: I went over and implemented a BST, and I got started on another section of the iOS Development course.
+
+**Thoughts**: Reviewing the data structures has been really helpful, and more than anything, I'm glad I've got notes on how they're implemented and their complexities written down somewhere that I can find it really easily. The iOS Development course is great, but I think I need to wait for the monitor to be set up before I get started. It takes too much screen space on a laptop to have Xcode and the course going at the same time.
+
+**Link to work**: In the data structures folder in this repository.
