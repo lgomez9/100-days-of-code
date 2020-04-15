@@ -535,3 +535,19 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: Reviewing the data structures has been really helpful, and more than anything, I'm glad I've got notes on how they're implemented and their complexities written down somewhere that I can find it really easily. The iOS Development course is great, but I think I need to wait for the monitor to be set up before I get started. It takes too much screen space on a laptop to have Xcode and the course going at the same time.
 
 **Link to work**: In the data structures folder in this repository.
+
+### Day 73: April 13, 2020
+
+**Today's Progress**: I finished problem 59 for Project Euler!
+
+**Thoughts**: Problem 59 was fun to solve, although I wish I had been a little more self-reliant when it came to figuring out the frequency analysis. I also have been doing a bunch of StoryBoard stuff for Kode with Klossy, which I feel like counts towards my coding for the day.
+
+**Link to work**: In the Project Euler folder in this repository.
+
+### Day 74: April 14, 2020
+
+**Today's Progress**: Implemented a hash table with separate chaining, and had a very frustrating day with some StoryBoards.
+
+**Thoughts**: The hash table was tough to implement, which is a little frustrating at this point. Definitely need to back off from Fiset's solutions until I've given an honest effort, and give myself a little bit of grace for not having as polished a response as his.
+
+**Link to work**: In the DS folder in this repository.
