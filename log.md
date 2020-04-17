@@ -551,3 +551,19 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: The hash table was tough to implement, which is a little frustrating at this point. Definitely need to back off from Fiset's solutions until I've given an honest effort, and give myself a little bit of grace for not having as polished a response as his.
 
 **Link to work**: In the DS folder in this repository.
+
+### Day 75: April 15, 2020
+
+**Today's Progress**: Started work on an implementation of a hash table using open addressing. Also did some work with StoryBoards, and made a rock paper scissors app!
+
+**Thoughts**: The hash table is tough to implement, still.
+
+**Link to work**: In the DS folder in this repository.
+
+### Day 76: April 16, 2020
+
+**Today's Progress**: Kept doing all the work I was doing yesterday!
+
+**Thoughts**: Need to practice some ML sooner or later.
+
+**Link to work**: In the DS folder in this repository.
