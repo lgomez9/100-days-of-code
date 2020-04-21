@@ -567,3 +567,35 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: Need to practice some ML sooner or later.
 
 **Link to work**: In the DS folder in this repository.
+
+### Day 77: April 17, 2020
+
+**Today's Progress**: Finished a Project Euler problem (59? I'm doing this retroactively so not sure), and took a look at the next one!
+
+**Thoughts**: The Project Euler stuff is coming along really well, although these problems are now getting extremely challenging.
+
+**Link to work**: In the Project Euler folder of this repository.
+
+### Day 78: April 18, 2020
+
+**Today's Progress**: Nothing much today, just looked at the Project Euler problem.
+
+**Thoughts**: none
+
+**Link to work**: none
+
+### Day 79: April 19, 2020
+
+**Today's Progress**: Finished the next Project Euler problem (60!)
+
+**Thoughts**: Remember when I used to finish two project euler problems a day lmao
+
+**Link to work**: In the Project Euler folder of this repository
+
+### Day 80: April 20, 2020
+
+**Today's Progress**: Played around with some segues in Xcode, and took a look at the next Project Euler problem!
+
+**Thoughts**: I'm really enjoying learning this Xcode material.
+
+**Link to work**: none
