@@ -599,3 +599,11 @@ A couple of days of doing Leetcode, Project Euler, and the Web Development cours
 **Thoughts**: I'm really enjoying learning this Xcode material.
 
 **Link to work**: none
+
+### Day 81: April 21, 2020
+
+**Today's Progress**: Played around with some different view controllers in Xcode, and started implementing an AVL tree.
+
+**Thoughts**: I have fond (is fond the right word?) memories of AVL trees from trying to implement them in 223.
+
+**Link to work**: none
